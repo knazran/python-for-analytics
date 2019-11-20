@@ -1,0 +1,1001 @@
+,customer_id,customer_name,order,order_cost,day,month
+0,1,Nishat Bowler,Iced Latte,2.1,Monday,7
+1,1,Nishat Bowler,Nasi Ayam,8.0,Monday,6
+2,2,Mujtaba Beech,Premium Coffee,3.6,Thursday,2
+3,4,Marie Guest,Pasta Alfredo,11.2,Tuesday,10
+4,2,Mujtaba Beech,Teriyaki Chicken Donburi,13.8,Tuesday,2
+5,1,Nishat Bowler,Teriyaki Chicken Donburi,13.8,Tuesday,6
+6,3,Kaidan Melendez,Mee Goreng Mamak,6.5,Wednesday,10
+7,5,Phillippa Barnett,Mee Goreng Mamak,6.5,Tuesday,5
+8,9,Baxter Hanna,Iced Latte,2.1,Monday,11
+9,4,Marie Guest,Bulgogi Bento,15.7,Thursday,9
+10,9,Baxter Hanna,Mee Goreng Mamak,6.5,Thursday,7
+11,2,Mujtaba Beech,Nasi Ayam,8.0,Friday,12
+12,9,Baxter Hanna,Orange Juice,3.6,Tuesday,1
+13,6,Ayla Blundell,Iced Latte,2.1,Monday,9
+14,7,Yaseen Thomas,Nasi Ayam,8.0,Monday,12
+15,2,Mujtaba Beech,Vegetarian Wrap,8.5,Wednesday,7
+16,3,Kaidan Melendez,Pasta Alfredo,11.2,Friday,3
+17,1,Nishat Bowler,Iced Latte,2.1,Friday,4
+18,8,Tevin Booker,Nasi Ayam,8.0,Thursday,4
+19,6,Ayla Blundell,Mee Goreng Mamak,6.5,Wednesday,10
+20,2,Mujtaba Beech,Orange Juice,3.6,Friday,1
+21,9,Baxter Hanna,Vegetarian Wrap,8.5,Wednesday,10
+22,2,Mujtaba Beech,Nasi Ayam,8.0,Friday,3
+23,1,Nishat Bowler,Teriyaki Chicken Donburi,13.8,Tuesday,4
+24,7,Yaseen Thomas,Teriyaki Chicken Donburi,13.8,Wednesday,2
+25,1,Nishat Bowler,Bulgogi Bento,15.7,Monday,10
+26,7,Yaseen Thomas,Pasta Alfredo,11.2,Monday,11
+27,4,Marie Guest,Mee Goreng Mamak,6.5,Friday,9
+28,4,Marie Guest,Teh Tarik,1.5,Wednesday,10
+29,9,Baxter Hanna,Orange Juice,3.6,Wednesday,5
+30,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Friday,3
+31,9,Baxter Hanna,Bulgogi Bento,15.7,Thursday,5
+32,6,Ayla Blundell,Teriyaki Chicken Donburi,13.8,Friday,6
+33,4,Marie Guest,Vegetarian Wrap,8.5,Wednesday,1
+34,6,Ayla Blundell,Bulgogi Bento,15.7,Wednesday,9
+35,6,Ayla Blundell,Mee Goreng Mamak,6.5,Monday,7
+36,1,Nishat Bowler,Iced Latte,2.1,Monday,5
+37,6,Ayla Blundell,Bulgogi Bento,15.7,Wednesday,2
+38,4,Marie Guest,Iced Latte,2.1,Wednesday,1
+39,2,Mujtaba Beech,Teriyaki Chicken Donburi,13.8,Thursday,6
+40,6,Ayla Blundell,Vegetarian Wrap,8.5,Tuesday,1
+41,5,Phillippa Barnett,Mee Goreng Mamak,6.5,Wednesday,9
+42,1,Nishat Bowler,Orange Juice,3.6,Thursday,6
+43,9,Baxter Hanna,Vegetarian Wrap,8.5,Wednesday,6
+44,2,Mujtaba Beech,Nasi Ayam,8.0,Tuesday,6
+45,4,Marie Guest,Mee Goreng Mamak,6.5,Tuesday,7
+46,6,Ayla Blundell,Mee Goreng Mamak,6.5,Friday,9
+47,4,Marie Guest,Bulgogi Bento,15.7,Wednesday,6
+48,9,Baxter Hanna,Orange Juice,3.6,Tuesday,3
+49,8,Tevin Booker,Teh Tarik,1.5,Wednesday,1
+50,5,Phillippa Barnett,Vegetarian Wrap,8.5,Wednesday,10
+51,1,Nishat Bowler,Premium Coffee,3.6,Monday,10
+52,8,Tevin Booker,Pasta Alfredo,11.2,Monday,9
+53,2,Mujtaba Beech,Pasta Alfredo,11.2,Monday,6
+54,9,Baxter Hanna,Teh Tarik,1.5,Monday,12
+55,5,Phillippa Barnett,Iced Latte,2.1,Monday,2
+56,2,Mujtaba Beech,Premium Coffee,3.6,Friday,4
+57,8,Tevin Booker,Nasi Ayam,8.0,Thursday,2
+58,3,Kaidan Melendez,Vegetarian Wrap,8.5,Thursday,4
+59,3,Kaidan Melendez,Mee Goreng Mamak,6.5,Thursday,11
+60,2,Mujtaba Beech,Nasi Ayam,8.0,Monday,8
+61,4,Marie Guest,Mee Goreng Mamak,6.5,Wednesday,4
+62,4,Marie Guest,Pasta Alfredo,11.2,Monday,7
+63,6,Ayla Blundell,Nasi Ayam,8.0,Friday,10
+64,1,Nishat Bowler,Pasta Alfredo,11.2,Thursday,10
+65,8,Tevin Booker,Bulgogi Bento,15.7,Wednesday,3
+66,9,Baxter Hanna,Teh Tarik,1.5,Monday,11
+67,6,Ayla Blundell,Teh Tarik,1.5,Monday,1
+68,8,Tevin Booker,Premium Coffee,3.6,Wednesday,12
+69,9,Baxter Hanna,Vegetarian Wrap,8.5,Monday,9
+70,1,Nishat Bowler,Bulgogi Bento,15.7,Friday,11
+71,8,Tevin Booker,Nasi Ayam,8.0,Wednesday,5
+72,6,Ayla Blundell,Pasta Alfredo,11.2,Wednesday,12
+73,9,Baxter Hanna,Vegetarian Wrap,8.5,Tuesday,7
+74,3,Kaidan Melendez,Bulgogi Bento,15.7,Tuesday,10
+75,8,Tevin Booker,Iced Latte,2.1,Friday,11
+76,2,Mujtaba Beech,Mee Goreng Mamak,6.5,Wednesday,9
+77,5,Phillippa Barnett,Mee Goreng Mamak,6.5,Tuesday,7
+78,2,Mujtaba Beech,Teriyaki Chicken Donburi,13.8,Tuesday,10
+79,3,Kaidan Melendez,Teh Tarik,1.5,Monday,12
+80,1,Nishat Bowler,Orange Juice,3.6,Tuesday,5
+81,6,Ayla Blundell,Vegetarian Wrap,8.5,Friday,12
+82,3,Kaidan Melendez,Vegetarian Wrap,8.5,Wednesday,12
+83,5,Phillippa Barnett,Vegetarian Wrap,8.5,Tuesday,11
+84,5,Phillippa Barnett,Vegetarian Wrap,8.5,Wednesday,3
+85,2,Mujtaba Beech,Pasta Alfredo,11.2,Tuesday,5
+86,1,Nishat Bowler,Teriyaki Chicken Donburi,13.8,Thursday,8
+87,6,Ayla Blundell,Vegetarian Wrap,8.5,Friday,6
+88,4,Marie Guest,Orange Juice,3.6,Wednesday,2
+89,6,Ayla Blundell,Premium Coffee,3.6,Monday,10
+90,9,Baxter Hanna,Vegetarian Wrap,8.5,Monday,2
+91,9,Baxter Hanna,Iced Latte,2.1,Wednesday,3
+92,2,Mujtaba Beech,Premium Coffee,3.6,Thursday,5
+93,9,Baxter Hanna,Nasi Ayam,8.0,Thursday,7
+94,5,Phillippa Barnett,Mee Goreng Mamak,6.5,Thursday,10
+95,7,Yaseen Thomas,Teh Tarik,1.5,Tuesday,8
+96,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Wednesday,12
+97,8,Tevin Booker,Nasi Ayam,8.0,Tuesday,8
+98,9,Baxter Hanna,Teriyaki Chicken Donburi,13.8,Thursday,2
+99,6,Ayla Blundell,Premium Coffee,3.6,Tuesday,6
+100,8,Tevin Booker,Teh Tarik,1.5,Wednesday,2
+101,4,Marie Guest,Mee Goreng Mamak,6.5,Tuesday,8
+102,7,Yaseen Thomas,Bulgogi Bento,15.7,Tuesday,10
+103,6,Ayla Blundell,Teriyaki Chicken Donburi,13.8,Wednesday,9
+104,5,Phillippa Barnett,Pasta Alfredo,11.2,Thursday,3
+105,4,Marie Guest,Bulgogi Bento,15.7,Monday,2
+106,9,Baxter Hanna,Teh Tarik,1.5,Tuesday,12
+107,2,Mujtaba Beech,Premium Coffee,3.6,Thursday,6
+108,3,Kaidan Melendez,Teriyaki Chicken Donburi,13.8,Wednesday,6
+109,4,Marie Guest,Vegetarian Wrap,8.5,Tuesday,1
+110,3,Kaidan Melendez,Teh Tarik,1.5,Thursday,9
+111,1,Nishat Bowler,Teh Tarik,1.5,Monday,8
+112,2,Mujtaba Beech,Iced Latte,2.1,Wednesday,12
+113,9,Baxter Hanna,Pasta Alfredo,11.2,Tuesday,11
+114,1,Nishat Bowler,Nasi Ayam,8.0,Wednesday,6
+115,5,Phillippa Barnett,Iced Latte,2.1,Wednesday,1
+116,5,Phillippa Barnett,Orange Juice,3.6,Wednesday,7
+117,1,Nishat Bowler,Nasi Ayam,8.0,Tuesday,9
+118,9,Baxter Hanna,Teriyaki Chicken Donburi,13.8,Friday,4
+119,4,Marie Guest,Iced Latte,2.1,Monday,3
+120,9,Baxter Hanna,Vegetarian Wrap,8.5,Thursday,6
+121,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Tuesday,10
+122,2,Mujtaba Beech,Orange Juice,3.6,Tuesday,8
+123,6,Ayla Blundell,Mee Goreng Mamak,6.5,Monday,3
+124,4,Marie Guest,Teriyaki Chicken Donburi,13.8,Tuesday,7
+125,2,Mujtaba Beech,Iced Latte,2.1,Thursday,11
+126,5,Phillippa Barnett,Bulgogi Bento,15.7,Monday,1
+127,1,Nishat Bowler,Teh Tarik,1.5,Friday,7
+128,1,Nishat Bowler,Vegetarian Wrap,8.5,Thursday,1
+129,7,Yaseen Thomas,Vegetarian Wrap,8.5,Thursday,7
+130,3,Kaidan Melendez,Iced Latte,2.1,Friday,12
+131,4,Marie Guest,Mee Goreng Mamak,6.5,Tuesday,1
+132,2,Mujtaba Beech,Orange Juice,3.6,Wednesday,9
+133,8,Tevin Booker,Bulgogi Bento,15.7,Monday,7
+134,8,Tevin Booker,Orange Juice,3.6,Friday,10
+135,9,Baxter Hanna,Nasi Ayam,8.0,Friday,6
+136,5,Phillippa Barnett,Mee Goreng Mamak,6.5,Tuesday,1
+137,4,Marie Guest,Teriyaki Chicken Donburi,13.8,Tuesday,7
+138,9,Baxter Hanna,Iced Latte,2.1,Tuesday,4
+139,9,Baxter Hanna,Bulgogi Bento,15.7,Wednesday,7
+140,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Monday,3
+141,5,Phillippa Barnett,Premium Coffee,3.6,Monday,7
+142,2,Mujtaba Beech,Iced Latte,2.1,Monday,12
+143,3,Kaidan Melendez,Iced Latte,2.1,Thursday,5
+144,3,Kaidan Melendez,Premium Coffee,3.6,Friday,7
+145,2,Mujtaba Beech,Premium Coffee,3.6,Tuesday,9
+146,5,Phillippa Barnett,Premium Coffee,3.6,Friday,2
+147,8,Tevin Booker,Premium Coffee,3.6,Monday,1
+148,4,Marie Guest,Vegetarian Wrap,8.5,Thursday,2
+149,4,Marie Guest,Pasta Alfredo,11.2,Wednesday,11
+150,6,Ayla Blundell,Premium Coffee,3.6,Thursday,12
+151,7,Yaseen Thomas,Premium Coffee,3.6,Monday,5
+152,4,Marie Guest,Nasi Ayam,8.0,Friday,7
+153,9,Baxter Hanna,Teriyaki Chicken Donburi,13.8,Thursday,11
+154,2,Mujtaba Beech,Pasta Alfredo,11.2,Friday,7
+155,6,Ayla Blundell,Bulgogi Bento,15.7,Friday,5
+156,4,Marie Guest,Iced Latte,2.1,Friday,3
+157,5,Phillippa Barnett,Teriyaki Chicken Donburi,13.8,Monday,2
+158,5,Phillippa Barnett,Premium Coffee,3.6,Wednesday,8
+159,3,Kaidan Melendez,Premium Coffee,3.6,Friday,11
+160,3,Kaidan Melendez,Nasi Ayam,8.0,Wednesday,4
+161,6,Ayla Blundell,Teh Tarik,1.5,Friday,10
+162,9,Baxter Hanna,Nasi Ayam,8.0,Friday,6
+163,4,Marie Guest,Bulgogi Bento,15.7,Friday,11
+164,4,Marie Guest,Teriyaki Chicken Donburi,13.8,Friday,9
+165,1,Nishat Bowler,Teriyaki Chicken Donburi,13.8,Wednesday,6
+166,5,Phillippa Barnett,Nasi Ayam,8.0,Thursday,10
+167,1,Nishat Bowler,Premium Coffee,3.6,Monday,8
+168,9,Baxter Hanna,Pasta Alfredo,11.2,Wednesday,12
+169,5,Phillippa Barnett,Pasta Alfredo,11.2,Thursday,3
+170,8,Tevin Booker,Orange Juice,3.6,Thursday,12
+171,4,Marie Guest,Orange Juice,3.6,Friday,4
+172,4,Marie Guest,Pasta Alfredo,11.2,Friday,7
+173,8,Tevin Booker,Pasta Alfredo,11.2,Wednesday,11
+174,1,Nishat Bowler,Pasta Alfredo,11.2,Tuesday,7
+175,2,Mujtaba Beech,Pasta Alfredo,11.2,Wednesday,3
+176,7,Yaseen Thomas,Mee Goreng Mamak,6.5,Thursday,1
+177,9,Baxter Hanna,Nasi Ayam,8.0,Wednesday,12
+178,7,Yaseen Thomas,Teriyaki Chicken Donburi,13.8,Wednesday,11
+179,7,Yaseen Thomas,Pasta Alfredo,11.2,Thursday,12
+180,3,Kaidan Melendez,Teriyaki Chicken Donburi,13.8,Tuesday,7
+181,9,Baxter Hanna,Teh Tarik,1.5,Tuesday,6
+182,7,Yaseen Thomas,Mee Goreng Mamak,6.5,Monday,11
+183,7,Yaseen Thomas,Teh Tarik,1.5,Tuesday,2
+184,5,Phillippa Barnett,Teh Tarik,1.5,Monday,11
+185,8,Tevin Booker,Premium Coffee,3.6,Wednesday,1
+186,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Tuesday,7
+187,4,Marie Guest,Teh Tarik,1.5,Monday,9
+188,2,Mujtaba Beech,Bulgogi Bento,15.7,Wednesday,3
+189,5,Phillippa Barnett,Premium Coffee,3.6,Monday,3
+190,2,Mujtaba Beech,Premium Coffee,3.6,Monday,11
+191,1,Nishat Bowler,Premium Coffee,3.6,Friday,6
+192,4,Marie Guest,Bulgogi Bento,15.7,Wednesday,8
+193,5,Phillippa Barnett,Vegetarian Wrap,8.5,Thursday,3
+194,5,Phillippa Barnett,Pasta Alfredo,11.2,Monday,11
+195,9,Baxter Hanna,Premium Coffee,3.6,Tuesday,3
+196,3,Kaidan Melendez,Vegetarian Wrap,8.5,Wednesday,5
+197,8,Tevin Booker,Teh Tarik,1.5,Wednesday,1
+198,3,Kaidan Melendez,Premium Coffee,3.6,Thursday,5
+199,9,Baxter Hanna,Mee Goreng Mamak,6.5,Monday,2
+200,1,Nishat Bowler,Teh Tarik,1.5,Thursday,9
+201,8,Tevin Booker,Mee Goreng Mamak,6.5,Tuesday,5
+202,5,Phillippa Barnett,Nasi Ayam,8.0,Monday,6
+203,6,Ayla Blundell,Mee Goreng Mamak,6.5,Wednesday,11
+204,7,Yaseen Thomas,Nasi Ayam,8.0,Wednesday,5
+205,9,Baxter Hanna,Bulgogi Bento,15.7,Monday,12
+206,9,Baxter Hanna,Pasta Alfredo,11.2,Wednesday,11
+207,2,Mujtaba Beech,Teh Tarik,1.5,Thursday,3
+208,2,Mujtaba Beech,Vegetarian Wrap,8.5,Tuesday,6
+209,7,Yaseen Thomas,Nasi Ayam,8.0,Monday,7
+210,3,Kaidan Melendez,Teriyaki Chicken Donburi,13.8,Monday,3
+211,7,Yaseen Thomas,Mee Goreng Mamak,6.5,Friday,5
+212,4,Marie Guest,Teh Tarik,1.5,Friday,3
+213,8,Tevin Booker,Premium Coffee,3.6,Tuesday,8
+214,5,Phillippa Barnett,Iced Latte,2.1,Monday,7
+215,8,Tevin Booker,Iced Latte,2.1,Monday,1
+216,5,Phillippa Barnett,Bulgogi Bento,15.7,Friday,6
+217,8,Tevin Booker,Pasta Alfredo,11.2,Wednesday,12
+218,4,Marie Guest,Iced Latte,2.1,Thursday,2
+219,9,Baxter Hanna,Bulgogi Bento,15.7,Wednesday,4
+220,1,Nishat Bowler,Nasi Ayam,8.0,Wednesday,9
+221,4,Marie Guest,Nasi Ayam,8.0,Tuesday,8
+222,5,Phillippa Barnett,Teh Tarik,1.5,Thursday,2
+223,8,Tevin Booker,Bulgogi Bento,15.7,Thursday,10
+224,4,Marie Guest,Iced Latte,2.1,Wednesday,4
+225,3,Kaidan Melendez,Premium Coffee,3.6,Tuesday,5
+226,7,Yaseen Thomas,Orange Juice,3.6,Friday,11
+227,6,Ayla Blundell,Mee Goreng Mamak,6.5,Tuesday,10
+228,3,Kaidan Melendez,Vegetarian Wrap,8.5,Wednesday,10
+229,4,Marie Guest,Premium Coffee,3.6,Friday,1
+230,4,Marie Guest,Iced Latte,2.1,Wednesday,11
+231,7,Yaseen Thomas,Mee Goreng Mamak,6.5,Thursday,12
+232,2,Mujtaba Beech,Vegetarian Wrap,8.5,Friday,12
+233,9,Baxter Hanna,Teh Tarik,1.5,Wednesday,4
+234,4,Marie Guest,Pasta Alfredo,11.2,Friday,5
+235,4,Marie Guest,Mee Goreng Mamak,6.5,Tuesday,9
+236,3,Kaidan Melendez,Iced Latte,2.1,Friday,11
+237,6,Ayla Blundell,Iced Latte,2.1,Thursday,8
+238,1,Nishat Bowler,Premium Coffee,3.6,Monday,12
+239,3,Kaidan Melendez,Premium Coffee,3.6,Friday,4
+240,8,Tevin Booker,Premium Coffee,3.6,Thursday,12
+241,7,Yaseen Thomas,Premium Coffee,3.6,Thursday,10
+242,7,Yaseen Thomas,Teriyaki Chicken Donburi,13.8,Monday,2
+243,2,Mujtaba Beech,Teh Tarik,1.5,Wednesday,12
+244,9,Baxter Hanna,Pasta Alfredo,11.2,Thursday,3
+245,4,Marie Guest,Pasta Alfredo,11.2,Wednesday,4
+246,6,Ayla Blundell,Nasi Ayam,8.0,Thursday,3
+247,6,Ayla Blundell,Bulgogi Bento,15.7,Wednesday,1
+248,5,Phillippa Barnett,Orange Juice,3.6,Wednesday,3
+249,8,Tevin Booker,Orange Juice,3.6,Monday,1
+250,9,Baxter Hanna,Bulgogi Bento,15.7,Tuesday,2
+251,7,Yaseen Thomas,Teh Tarik,1.5,Thursday,11
+252,3,Kaidan Melendez,Orange Juice,3.6,Thursday,7
+253,1,Nishat Bowler,Nasi Ayam,8.0,Tuesday,4
+254,6,Ayla Blundell,Mee Goreng Mamak,6.5,Monday,9
+255,1,Nishat Bowler,Pasta Alfredo,11.2,Friday,2
+256,5,Phillippa Barnett,Bulgogi Bento,15.7,Monday,10
+257,4,Marie Guest,Nasi Ayam,8.0,Friday,8
+258,8,Tevin Booker,Pasta Alfredo,11.2,Friday,8
+259,6,Ayla Blundell,Nasi Ayam,8.0,Monday,7
+260,8,Tevin Booker,Teh Tarik,1.5,Wednesday,3
+261,2,Mujtaba Beech,Nasi Ayam,8.0,Wednesday,2
+262,9,Baxter Hanna,Bulgogi Bento,15.7,Monday,12
+263,4,Marie Guest,Nasi Ayam,8.0,Friday,6
+264,8,Tevin Booker,Iced Latte,2.1,Monday,11
+265,3,Kaidan Melendez,Vegetarian Wrap,8.5,Friday,10
+266,1,Nishat Bowler,Nasi Ayam,8.0,Tuesday,11
+267,7,Yaseen Thomas,Orange Juice,3.6,Monday,5
+268,4,Marie Guest,Nasi Ayam,8.0,Thursday,10
+269,3,Kaidan Melendez,Iced Latte,2.1,Friday,2
+270,1,Nishat Bowler,Teriyaki Chicken Donburi,13.8,Tuesday,8
+271,3,Kaidan Melendez,Teriyaki Chicken Donburi,13.8,Thursday,9
+272,6,Ayla Blundell,Bulgogi Bento,15.7,Wednesday,4
+273,9,Baxter Hanna,Iced Latte,2.1,Thursday,3
+274,6,Ayla Blundell,Nasi Ayam,8.0,Monday,10
+275,1,Nishat Bowler,Teriyaki Chicken Donburi,13.8,Tuesday,6
+276,6,Ayla Blundell,Iced Latte,2.1,Thursday,12
+277,2,Mujtaba Beech,Teriyaki Chicken Donburi,13.8,Monday,8
+278,5,Phillippa Barnett,Mee Goreng Mamak,6.5,Monday,5
+279,4,Marie Guest,Teriyaki Chicken Donburi,13.8,Thursday,11
+280,1,Nishat Bowler,Iced Latte,2.1,Thursday,6
+281,6,Ayla Blundell,Mee Goreng Mamak,6.5,Tuesday,8
+282,2,Mujtaba Beech,Vegetarian Wrap,8.5,Monday,6
+283,1,Nishat Bowler,Pasta Alfredo,11.2,Monday,11
+284,5,Phillippa Barnett,Iced Latte,2.1,Monday,7
+285,6,Ayla Blundell,Teh Tarik,1.5,Tuesday,2
+286,5,Phillippa Barnett,Vegetarian Wrap,8.5,Wednesday,8
+287,4,Marie Guest,Pasta Alfredo,11.2,Wednesday,8
+288,8,Tevin Booker,Nasi Ayam,8.0,Friday,11
+289,8,Tevin Booker,Orange Juice,3.6,Thursday,7
+290,1,Nishat Bowler,Premium Coffee,3.6,Thursday,1
+291,4,Marie Guest,Teh Tarik,1.5,Tuesday,8
+292,7,Yaseen Thomas,Iced Latte,2.1,Monday,9
+293,9,Baxter Hanna,Nasi Ayam,8.0,Thursday,6
+294,6,Ayla Blundell,Mee Goreng Mamak,6.5,Monday,5
+295,8,Tevin Booker,Nasi Ayam,8.0,Monday,1
+296,9,Baxter Hanna,Iced Latte,2.1,Tuesday,7
+297,8,Tevin Booker,Pasta Alfredo,11.2,Thursday,8
+298,5,Phillippa Barnett,Iced Latte,2.1,Thursday,4
+299,9,Baxter Hanna,Pasta Alfredo,11.2,Monday,4
+300,9,Baxter Hanna,Iced Latte,2.1,Wednesday,12
+301,2,Mujtaba Beech,Pasta Alfredo,11.2,Wednesday,4
+302,5,Phillippa Barnett,Orange Juice,3.6,Friday,3
+303,4,Marie Guest,Premium Coffee,3.6,Monday,11
+304,9,Baxter Hanna,Premium Coffee,3.6,Thursday,6
+305,5,Phillippa Barnett,Nasi Ayam,8.0,Wednesday,11
+306,7,Yaseen Thomas,Pasta Alfredo,11.2,Friday,4
+307,8,Tevin Booker,Bulgogi Bento,15.7,Thursday,7
+308,3,Kaidan Melendez,Pasta Alfredo,11.2,Monday,3
+309,3,Kaidan Melendez,Orange Juice,3.6,Thursday,6
+310,2,Mujtaba Beech,Iced Latte,2.1,Monday,2
+311,9,Baxter Hanna,Nasi Ayam,8.0,Tuesday,3
+312,6,Ayla Blundell,Iced Latte,2.1,Wednesday,2
+313,3,Kaidan Melendez,Premium Coffee,3.6,Thursday,9
+314,3,Kaidan Melendez,Premium Coffee,3.6,Tuesday,3
+315,9,Baxter Hanna,Mee Goreng Mamak,6.5,Thursday,6
+316,3,Kaidan Melendez,Vegetarian Wrap,8.5,Thursday,12
+317,4,Marie Guest,Orange Juice,3.6,Tuesday,12
+318,3,Kaidan Melendez,Teriyaki Chicken Donburi,13.8,Tuesday,4
+319,3,Kaidan Melendez,Pasta Alfredo,11.2,Wednesday,3
+320,3,Kaidan Melendez,Teriyaki Chicken Donburi,13.8,Wednesday,5
+321,9,Baxter Hanna,Teriyaki Chicken Donburi,13.8,Wednesday,4
+322,3,Kaidan Melendez,Bulgogi Bento,15.7,Monday,12
+323,9,Baxter Hanna,Teriyaki Chicken Donburi,13.8,Friday,10
+324,5,Phillippa Barnett,Vegetarian Wrap,8.5,Wednesday,10
+325,6,Ayla Blundell,Bulgogi Bento,15.7,Thursday,10
+326,9,Baxter Hanna,Mee Goreng Mamak,6.5,Monday,12
+327,6,Ayla Blundell,Premium Coffee,3.6,Friday,3
+328,6,Ayla Blundell,Iced Latte,2.1,Friday,6
+329,8,Tevin Booker,Vegetarian Wrap,8.5,Thursday,1
+330,2,Mujtaba Beech,Bulgogi Bento,15.7,Friday,7
+331,9,Baxter Hanna,Bulgogi Bento,15.7,Tuesday,2
+332,9,Baxter Hanna,Nasi Ayam,8.0,Tuesday,9
+333,6,Ayla Blundell,Iced Latte,2.1,Monday,10
+334,5,Phillippa Barnett,Premium Coffee,3.6,Monday,6
+335,2,Mujtaba Beech,Premium Coffee,3.6,Wednesday,10
+336,3,Kaidan Melendez,Teriyaki Chicken Donburi,13.8,Monday,1
+337,5,Phillippa Barnett,Pasta Alfredo,11.2,Wednesday,10
+338,7,Yaseen Thomas,Bulgogi Bento,15.7,Monday,6
+339,1,Nishat Bowler,Vegetarian Wrap,8.5,Thursday,9
+340,9,Baxter Hanna,Mee Goreng Mamak,6.5,Tuesday,3
+341,7,Yaseen Thomas,Bulgogi Bento,15.7,Tuesday,1
+342,7,Yaseen Thomas,Teriyaki Chicken Donburi,13.8,Tuesday,5
+343,4,Marie Guest,Iced Latte,2.1,Friday,11
+344,1,Nishat Bowler,Orange Juice,3.6,Friday,9
+345,6,Ayla Blundell,Premium Coffee,3.6,Thursday,9
+346,8,Tevin Booker,Vegetarian Wrap,8.5,Wednesday,12
+347,4,Marie Guest,Orange Juice,3.6,Monday,8
+348,2,Mujtaba Beech,Teriyaki Chicken Donburi,13.8,Tuesday,3
+349,9,Baxter Hanna,Iced Latte,2.1,Thursday,8
+350,6,Ayla Blundell,Pasta Alfredo,11.2,Monday,12
+351,1,Nishat Bowler,Orange Juice,3.6,Friday,12
+352,6,Ayla Blundell,Bulgogi Bento,15.7,Thursday,7
+353,3,Kaidan Melendez,Orange Juice,3.6,Tuesday,7
+354,7,Yaseen Thomas,Teh Tarik,1.5,Tuesday,11
+355,8,Tevin Booker,Iced Latte,2.1,Wednesday,2
+356,5,Phillippa Barnett,Iced Latte,2.1,Wednesday,2
+357,9,Baxter Hanna,Pasta Alfredo,11.2,Thursday,5
+358,9,Baxter Hanna,Bulgogi Bento,15.7,Friday,10
+359,7,Yaseen Thomas,Bulgogi Bento,15.7,Monday,10
+360,9,Baxter Hanna,Iced Latte,2.1,Friday,5
+361,5,Phillippa Barnett,Mee Goreng Mamak,6.5,Monday,8
+362,1,Nishat Bowler,Vegetarian Wrap,8.5,Monday,12
+363,9,Baxter Hanna,Bulgogi Bento,15.7,Wednesday,7
+364,8,Tevin Booker,Premium Coffee,3.6,Tuesday,4
+365,7,Yaseen Thomas,Pasta Alfredo,11.2,Friday,6
+366,6,Ayla Blundell,Mee Goreng Mamak,6.5,Thursday,1
+367,8,Tevin Booker,Vegetarian Wrap,8.5,Friday,11
+368,1,Nishat Bowler,Orange Juice,3.6,Wednesday,9
+369,4,Marie Guest,Mee Goreng Mamak,6.5,Wednesday,11
+370,2,Mujtaba Beech,Iced Latte,2.1,Monday,2
+371,2,Mujtaba Beech,Iced Latte,2.1,Wednesday,10
+372,3,Kaidan Melendez,Orange Juice,3.6,Monday,5
+373,6,Ayla Blundell,Teh Tarik,1.5,Friday,9
+374,7,Yaseen Thomas,Premium Coffee,3.6,Friday,9
+375,4,Marie Guest,Mee Goreng Mamak,6.5,Monday,3
+376,8,Tevin Booker,Pasta Alfredo,11.2,Tuesday,9
+377,2,Mujtaba Beech,Mee Goreng Mamak,6.5,Friday,12
+378,3,Kaidan Melendez,Iced Latte,2.1,Wednesday,11
+379,3,Kaidan Melendez,Nasi Ayam,8.0,Wednesday,1
+380,4,Marie Guest,Teh Tarik,1.5,Wednesday,7
+381,5,Phillippa Barnett,Pasta Alfredo,11.2,Thursday,11
+382,4,Marie Guest,Bulgogi Bento,15.7,Thursday,11
+383,8,Tevin Booker,Mee Goreng Mamak,6.5,Thursday,3
+384,1,Nishat Bowler,Nasi Ayam,8.0,Tuesday,6
+385,6,Ayla Blundell,Teriyaki Chicken Donburi,13.8,Thursday,7
+386,4,Marie Guest,Iced Latte,2.1,Monday,6
+387,3,Kaidan Melendez,Orange Juice,3.6,Monday,12
+388,7,Yaseen Thomas,Pasta Alfredo,11.2,Tuesday,2
+389,1,Nishat Bowler,Nasi Ayam,8.0,Wednesday,7
+390,2,Mujtaba Beech,Vegetarian Wrap,8.5,Tuesday,2
+391,6,Ayla Blundell,Orange Juice,3.6,Friday,11
+392,8,Tevin Booker,Premium Coffee,3.6,Monday,5
+393,3,Kaidan Melendez,Mee Goreng Mamak,6.5,Tuesday,1
+394,9,Baxter Hanna,Teh Tarik,1.5,Tuesday,4
+395,2,Mujtaba Beech,Teriyaki Chicken Donburi,13.8,Friday,5
+396,3,Kaidan Melendez,Mee Goreng Mamak,6.5,Wednesday,3
+397,2,Mujtaba Beech,Teriyaki Chicken Donburi,13.8,Friday,4
+398,3,Kaidan Melendez,Mee Goreng Mamak,6.5,Wednesday,6
+399,3,Kaidan Melendez,Iced Latte,2.1,Tuesday,5
+400,6,Ayla Blundell,Vegetarian Wrap,8.5,Thursday,1
+401,6,Ayla Blundell,Teh Tarik,1.5,Thursday,2
+402,7,Yaseen Thomas,Bulgogi Bento,15.7,Tuesday,2
+403,6,Ayla Blundell,Iced Latte,2.1,Monday,3
+404,2,Mujtaba Beech,Vegetarian Wrap,8.5,Tuesday,11
+405,1,Nishat Bowler,Mee Goreng Mamak,6.5,Friday,2
+406,2,Mujtaba Beech,Pasta Alfredo,11.2,Tuesday,9
+407,2,Mujtaba Beech,Nasi Ayam,8.0,Friday,2
+408,3,Kaidan Melendez,Orange Juice,3.6,Thursday,4
+409,8,Tevin Booker,Premium Coffee,3.6,Thursday,6
+410,2,Mujtaba Beech,Orange Juice,3.6,Wednesday,3
+411,4,Marie Guest,Iced Latte,2.1,Friday,5
+412,3,Kaidan Melendez,Orange Juice,3.6,Friday,4
+413,9,Baxter Hanna,Iced Latte,2.1,Tuesday,7
+414,3,Kaidan Melendez,Mee Goreng Mamak,6.5,Wednesday,7
+415,1,Nishat Bowler,Pasta Alfredo,11.2,Thursday,8
+416,2,Mujtaba Beech,Vegetarian Wrap,8.5,Tuesday,6
+417,6,Ayla Blundell,Bulgogi Bento,15.7,Monday,3
+418,9,Baxter Hanna,Orange Juice,3.6,Friday,4
+419,6,Ayla Blundell,Vegetarian Wrap,8.5,Monday,10
+420,5,Phillippa Barnett,Nasi Ayam,8.0,Tuesday,9
+421,9,Baxter Hanna,Mee Goreng Mamak,6.5,Wednesday,6
+422,7,Yaseen Thomas,Teriyaki Chicken Donburi,13.8,Friday,10
+423,5,Phillippa Barnett,Teh Tarik,1.5,Tuesday,11
+424,4,Marie Guest,Vegetarian Wrap,8.5,Wednesday,12
+425,3,Kaidan Melendez,Pasta Alfredo,11.2,Thursday,2
+426,6,Ayla Blundell,Teriyaki Chicken Donburi,13.8,Wednesday,1
+427,3,Kaidan Melendez,Premium Coffee,3.6,Tuesday,3
+428,1,Nishat Bowler,Teriyaki Chicken Donburi,13.8,Monday,3
+429,2,Mujtaba Beech,Bulgogi Bento,15.7,Friday,9
+430,6,Ayla Blundell,Premium Coffee,3.6,Friday,9
+431,5,Phillippa Barnett,Orange Juice,3.6,Monday,8
+432,9,Baxter Hanna,Pasta Alfredo,11.2,Wednesday,10
+433,7,Yaseen Thomas,Bulgogi Bento,15.7,Monday,3
+434,2,Mujtaba Beech,Premium Coffee,3.6,Thursday,12
+435,5,Phillippa Barnett,Nasi Ayam,8.0,Tuesday,9
+436,2,Mujtaba Beech,Iced Latte,2.1,Monday,3
+437,4,Marie Guest,Premium Coffee,3.6,Thursday,6
+438,8,Tevin Booker,Orange Juice,3.6,Monday,9
+439,6,Ayla Blundell,Teriyaki Chicken Donburi,13.8,Monday,6
+440,4,Marie Guest,Iced Latte,2.1,Tuesday,6
+441,4,Marie Guest,Bulgogi Bento,15.7,Monday,6
+442,6,Ayla Blundell,Orange Juice,3.6,Monday,3
+443,3,Kaidan Melendez,Pasta Alfredo,11.2,Monday,1
+444,5,Phillippa Barnett,Bulgogi Bento,15.7,Wednesday,12
+445,2,Mujtaba Beech,Iced Latte,2.1,Wednesday,2
+446,4,Marie Guest,Teriyaki Chicken Donburi,13.8,Monday,6
+447,6,Ayla Blundell,Vegetarian Wrap,8.5,Friday,8
+448,7,Yaseen Thomas,Mee Goreng Mamak,6.5,Wednesday,12
+449,5,Phillippa Barnett,Nasi Ayam,8.0,Friday,6
+450,3,Kaidan Melendez,Orange Juice,3.6,Thursday,11
+451,4,Marie Guest,Vegetarian Wrap,8.5,Tuesday,10
+452,3,Kaidan Melendez,Teh Tarik,1.5,Wednesday,5
+453,2,Mujtaba Beech,Nasi Ayam,8.0,Wednesday,9
+454,7,Yaseen Thomas,Iced Latte,2.1,Wednesday,8
+455,5,Phillippa Barnett,Teriyaki Chicken Donburi,13.8,Wednesday,1
+456,2,Mujtaba Beech,Teh Tarik,1.5,Monday,7
+457,3,Kaidan Melendez,Orange Juice,3.6,Friday,4
+458,9,Baxter Hanna,Premium Coffee,3.6,Wednesday,11
+459,2,Mujtaba Beech,Teriyaki Chicken Donburi,13.8,Tuesday,2
+460,8,Tevin Booker,Bulgogi Bento,15.7,Monday,8
+461,4,Marie Guest,Mee Goreng Mamak,6.5,Wednesday,7
+462,2,Mujtaba Beech,Mee Goreng Mamak,6.5,Tuesday,4
+463,1,Nishat Bowler,Vegetarian Wrap,8.5,Wednesday,7
+464,6,Ayla Blundell,Orange Juice,3.6,Friday,8
+465,4,Marie Guest,Orange Juice,3.6,Tuesday,4
+466,2,Mujtaba Beech,Bulgogi Bento,15.7,Monday,8
+467,9,Baxter Hanna,Nasi Ayam,8.0,Monday,9
+468,1,Nishat Bowler,Vegetarian Wrap,8.5,Tuesday,10
+469,6,Ayla Blundell,Teh Tarik,1.5,Friday,6
+470,6,Ayla Blundell,Nasi Ayam,8.0,Monday,8
+471,9,Baxter Hanna,Teriyaki Chicken Donburi,13.8,Friday,12
+472,5,Phillippa Barnett,Teriyaki Chicken Donburi,13.8,Friday,4
+473,1,Nishat Bowler,Premium Coffee,3.6,Thursday,9
+474,7,Yaseen Thomas,Orange Juice,3.6,Tuesday,3
+475,6,Ayla Blundell,Vegetarian Wrap,8.5,Tuesday,9
+476,2,Mujtaba Beech,Premium Coffee,3.6,Tuesday,4
+477,1,Nishat Bowler,Vegetarian Wrap,8.5,Wednesday,8
+478,6,Ayla Blundell,Iced Latte,2.1,Wednesday,7
+479,8,Tevin Booker,Iced Latte,2.1,Monday,11
+480,5,Phillippa Barnett,Orange Juice,3.6,Tuesday,9
+481,3,Kaidan Melendez,Orange Juice,3.6,Friday,10
+482,3,Kaidan Melendez,Premium Coffee,3.6,Wednesday,9
+483,3,Kaidan Melendez,Pasta Alfredo,11.2,Thursday,3
+484,3,Kaidan Melendez,Iced Latte,2.1,Friday,9
+485,2,Mujtaba Beech,Iced Latte,2.1,Friday,9
+486,5,Phillippa Barnett,Bulgogi Bento,15.7,Friday,10
+487,9,Baxter Hanna,Teh Tarik,1.5,Monday,7
+488,3,Kaidan Melendez,Teriyaki Chicken Donburi,13.8,Wednesday,4
+489,9,Baxter Hanna,Pasta Alfredo,11.2,Thursday,5
+490,7,Yaseen Thomas,Nasi Ayam,8.0,Friday,7
+491,8,Tevin Booker,Premium Coffee,3.6,Wednesday,6
+492,9,Baxter Hanna,Vegetarian Wrap,8.5,Friday,12
+493,2,Mujtaba Beech,Orange Juice,3.6,Wednesday,9
+494,4,Marie Guest,Teriyaki Chicken Donburi,13.8,Friday,2
+495,7,Yaseen Thomas,Bulgogi Bento,15.7,Tuesday,9
+496,5,Phillippa Barnett,Iced Latte,2.1,Monday,11
+497,4,Marie Guest,Vegetarian Wrap,8.5,Friday,1
+498,6,Ayla Blundell,Vegetarian Wrap,8.5,Tuesday,11
+499,1,Nishat Bowler,Teriyaki Chicken Donburi,13.8,Friday,1
+500,4,Marie Guest,Vegetarian Wrap,8.5,Wednesday,12
+501,8,Tevin Booker,Pasta Alfredo,11.2,Thursday,1
+502,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Friday,2
+503,4,Marie Guest,Teh Tarik,1.5,Tuesday,5
+504,7,Yaseen Thomas,Mee Goreng Mamak,6.5,Tuesday,1
+505,5,Phillippa Barnett,Premium Coffee,3.6,Monday,11
+506,5,Phillippa Barnett,Pasta Alfredo,11.2,Thursday,11
+507,7,Yaseen Thomas,Iced Latte,2.1,Friday,12
+508,7,Yaseen Thomas,Teh Tarik,1.5,Friday,7
+509,7,Yaseen Thomas,Nasi Ayam,8.0,Wednesday,10
+510,6,Ayla Blundell,Mee Goreng Mamak,6.5,Wednesday,8
+511,2,Mujtaba Beech,Iced Latte,2.1,Monday,4
+512,8,Tevin Booker,Premium Coffee,3.6,Thursday,10
+513,6,Ayla Blundell,Mee Goreng Mamak,6.5,Wednesday,7
+514,8,Tevin Booker,Nasi Ayam,8.0,Thursday,9
+515,8,Tevin Booker,Teh Tarik,1.5,Thursday,8
+516,9,Baxter Hanna,Teh Tarik,1.5,Wednesday,10
+517,7,Yaseen Thomas,Mee Goreng Mamak,6.5,Friday,11
+518,7,Yaseen Thomas,Nasi Ayam,8.0,Thursday,7
+519,1,Nishat Bowler,Teriyaki Chicken Donburi,13.8,Thursday,1
+520,5,Phillippa Barnett,Teh Tarik,1.5,Thursday,8
+521,1,Nishat Bowler,Teriyaki Chicken Donburi,13.8,Thursday,6
+522,5,Phillippa Barnett,Bulgogi Bento,15.7,Friday,3
+523,7,Yaseen Thomas,Premium Coffee,3.6,Wednesday,1
+524,2,Mujtaba Beech,Mee Goreng Mamak,6.5,Wednesday,7
+525,8,Tevin Booker,Nasi Ayam,8.0,Wednesday,9
+526,7,Yaseen Thomas,Teriyaki Chicken Donburi,13.8,Wednesday,3
+527,1,Nishat Bowler,Orange Juice,3.6,Monday,2
+528,1,Nishat Bowler,Bulgogi Bento,15.7,Friday,12
+529,3,Kaidan Melendez,Bulgogi Bento,15.7,Monday,7
+530,1,Nishat Bowler,Teriyaki Chicken Donburi,13.8,Tuesday,1
+531,3,Kaidan Melendez,Orange Juice,3.6,Wednesday,5
+532,4,Marie Guest,Premium Coffee,3.6,Friday,7
+533,1,Nishat Bowler,Teh Tarik,1.5,Tuesday,1
+534,8,Tevin Booker,Premium Coffee,3.6,Tuesday,7
+535,6,Ayla Blundell,Nasi Ayam,8.0,Friday,3
+536,8,Tevin Booker,Mee Goreng Mamak,6.5,Wednesday,1
+537,3,Kaidan Melendez,Mee Goreng Mamak,6.5,Friday,5
+538,3,Kaidan Melendez,Teriyaki Chicken Donburi,13.8,Wednesday,6
+539,1,Nishat Bowler,Teh Tarik,1.5,Tuesday,9
+540,2,Mujtaba Beech,Pasta Alfredo,11.2,Tuesday,6
+541,8,Tevin Booker,Pasta Alfredo,11.2,Wednesday,5
+542,5,Phillippa Barnett,Bulgogi Bento,15.7,Monday,4
+543,5,Phillippa Barnett,Bulgogi Bento,15.7,Monday,8
+544,7,Yaseen Thomas,Iced Latte,2.1,Friday,2
+545,1,Nishat Bowler,Orange Juice,3.6,Thursday,3
+546,2,Mujtaba Beech,Iced Latte,2.1,Monday,4
+547,4,Marie Guest,Orange Juice,3.6,Friday,8
+548,4,Marie Guest,Nasi Ayam,8.0,Thursday,8
+549,2,Mujtaba Beech,Nasi Ayam,8.0,Friday,11
+550,2,Mujtaba Beech,Nasi Ayam,8.0,Monday,8
+551,7,Yaseen Thomas,Teh Tarik,1.5,Thursday,8
+552,9,Baxter Hanna,Vegetarian Wrap,8.5,Thursday,8
+553,9,Baxter Hanna,Mee Goreng Mamak,6.5,Monday,7
+554,2,Mujtaba Beech,Vegetarian Wrap,8.5,Friday,12
+555,5,Phillippa Barnett,Vegetarian Wrap,8.5,Thursday,3
+556,3,Kaidan Melendez,Mee Goreng Mamak,6.5,Friday,10
+557,9,Baxter Hanna,Mee Goreng Mamak,6.5,Wednesday,1
+558,3,Kaidan Melendez,Vegetarian Wrap,8.5,Monday,10
+559,2,Mujtaba Beech,Nasi Ayam,8.0,Tuesday,8
+560,1,Nishat Bowler,Pasta Alfredo,11.2,Friday,4
+561,6,Ayla Blundell,Mee Goreng Mamak,6.5,Monday,9
+562,7,Yaseen Thomas,Bulgogi Bento,15.7,Tuesday,7
+563,2,Mujtaba Beech,Iced Latte,2.1,Wednesday,1
+564,5,Phillippa Barnett,Premium Coffee,3.6,Thursday,6
+565,4,Marie Guest,Bulgogi Bento,15.7,Monday,9
+566,9,Baxter Hanna,Mee Goreng Mamak,6.5,Wednesday,11
+567,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Friday,10
+568,5,Phillippa Barnett,Orange Juice,3.6,Wednesday,6
+569,8,Tevin Booker,Premium Coffee,3.6,Tuesday,10
+570,8,Tevin Booker,Vegetarian Wrap,8.5,Friday,4
+571,7,Yaseen Thomas,Vegetarian Wrap,8.5,Wednesday,9
+572,3,Kaidan Melendez,Teriyaki Chicken Donburi,13.8,Wednesday,12
+573,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Thursday,1
+574,5,Phillippa Barnett,Teriyaki Chicken Donburi,13.8,Thursday,3
+575,9,Baxter Hanna,Teriyaki Chicken Donburi,13.8,Tuesday,7
+576,8,Tevin Booker,Teh Tarik,1.5,Wednesday,11
+577,4,Marie Guest,Iced Latte,2.1,Monday,5
+578,5,Phillippa Barnett,Nasi Ayam,8.0,Friday,3
+579,2,Mujtaba Beech,Bulgogi Bento,15.7,Wednesday,1
+580,3,Kaidan Melendez,Pasta Alfredo,11.2,Tuesday,1
+581,6,Ayla Blundell,Vegetarian Wrap,8.5,Monday,3
+582,4,Marie Guest,Teriyaki Chicken Donburi,13.8,Friday,12
+583,8,Tevin Booker,Mee Goreng Mamak,6.5,Monday,7
+584,8,Tevin Booker,Orange Juice,3.6,Friday,6
+585,6,Ayla Blundell,Mee Goreng Mamak,6.5,Thursday,9
+586,3,Kaidan Melendez,Teriyaki Chicken Donburi,13.8,Thursday,4
+587,7,Yaseen Thomas,Nasi Ayam,8.0,Friday,10
+588,6,Ayla Blundell,Premium Coffee,3.6,Tuesday,4
+589,5,Phillippa Barnett,Nasi Ayam,8.0,Friday,8
+590,9,Baxter Hanna,Mee Goreng Mamak,6.5,Monday,8
+591,5,Phillippa Barnett,Orange Juice,3.6,Wednesday,12
+592,4,Marie Guest,Bulgogi Bento,15.7,Friday,3
+593,9,Baxter Hanna,Pasta Alfredo,11.2,Monday,2
+594,8,Tevin Booker,Pasta Alfredo,11.2,Wednesday,9
+595,6,Ayla Blundell,Bulgogi Bento,15.7,Tuesday,4
+596,7,Yaseen Thomas,Iced Latte,2.1,Tuesday,2
+597,3,Kaidan Melendez,Mee Goreng Mamak,6.5,Monday,6
+598,7,Yaseen Thomas,Vegetarian Wrap,8.5,Friday,9
+599,1,Nishat Bowler,Pasta Alfredo,11.2,Thursday,7
+600,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Thursday,5
+601,1,Nishat Bowler,Premium Coffee,3.6,Monday,3
+602,4,Marie Guest,Nasi Ayam,8.0,Monday,8
+603,6,Ayla Blundell,Pasta Alfredo,11.2,Friday,12
+604,5,Phillippa Barnett,Teh Tarik,1.5,Monday,6
+605,5,Phillippa Barnett,Bulgogi Bento,15.7,Wednesday,8
+606,7,Yaseen Thomas,Vegetarian Wrap,8.5,Thursday,12
+607,4,Marie Guest,Pasta Alfredo,11.2,Wednesday,5
+608,2,Mujtaba Beech,Pasta Alfredo,11.2,Monday,2
+609,5,Phillippa Barnett,Mee Goreng Mamak,6.5,Friday,5
+610,8,Tevin Booker,Vegetarian Wrap,8.5,Wednesday,8
+611,4,Marie Guest,Teh Tarik,1.5,Tuesday,7
+612,1,Nishat Bowler,Mee Goreng Mamak,6.5,Monday,12
+613,6,Ayla Blundell,Teh Tarik,1.5,Monday,3
+614,2,Mujtaba Beech,Mee Goreng Mamak,6.5,Wednesday,2
+615,2,Mujtaba Beech,Teriyaki Chicken Donburi,13.8,Tuesday,11
+616,2,Mujtaba Beech,Pasta Alfredo,11.2,Thursday,1
+617,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Tuesday,9
+618,3,Kaidan Melendez,Vegetarian Wrap,8.5,Wednesday,12
+619,3,Kaidan Melendez,Iced Latte,2.1,Monday,3
+620,4,Marie Guest,Pasta Alfredo,11.2,Monday,7
+621,8,Tevin Booker,Iced Latte,2.1,Monday,6
+622,2,Mujtaba Beech,Teh Tarik,1.5,Tuesday,6
+623,8,Tevin Booker,Bulgogi Bento,15.7,Monday,4
+624,2,Mujtaba Beech,Iced Latte,2.1,Thursday,3
+625,1,Nishat Bowler,Orange Juice,3.6,Wednesday,9
+626,2,Mujtaba Beech,Teh Tarik,1.5,Monday,2
+627,2,Mujtaba Beech,Premium Coffee,3.6,Tuesday,12
+628,2,Mujtaba Beech,Pasta Alfredo,11.2,Monday,8
+629,5,Phillippa Barnett,Premium Coffee,3.6,Tuesday,1
+630,5,Phillippa Barnett,Bulgogi Bento,15.7,Thursday,2
+631,5,Phillippa Barnett,Teh Tarik,1.5,Thursday,5
+632,7,Yaseen Thomas,Teh Tarik,1.5,Thursday,8
+633,9,Baxter Hanna,Nasi Ayam,8.0,Wednesday,3
+634,4,Marie Guest,Pasta Alfredo,11.2,Thursday,5
+635,6,Ayla Blundell,Nasi Ayam,8.0,Friday,1
+636,1,Nishat Bowler,Bulgogi Bento,15.7,Monday,7
+637,8,Tevin Booker,Iced Latte,2.1,Wednesday,3
+638,8,Tevin Booker,Mee Goreng Mamak,6.5,Tuesday,10
+639,9,Baxter Hanna,Nasi Ayam,8.0,Thursday,10
+640,2,Mujtaba Beech,Orange Juice,3.6,Wednesday,8
+641,3,Kaidan Melendez,Nasi Ayam,8.0,Monday,9
+642,8,Tevin Booker,Pasta Alfredo,11.2,Tuesday,3
+643,1,Nishat Bowler,Iced Latte,2.1,Thursday,9
+644,6,Ayla Blundell,Teriyaki Chicken Donburi,13.8,Friday,10
+645,7,Yaseen Thomas,Teh Tarik,1.5,Tuesday,9
+646,9,Baxter Hanna,Teriyaki Chicken Donburi,13.8,Wednesday,5
+647,2,Mujtaba Beech,Mee Goreng Mamak,6.5,Friday,8
+648,6,Ayla Blundell,Premium Coffee,3.6,Thursday,6
+649,6,Ayla Blundell,Bulgogi Bento,15.7,Thursday,8
+650,5,Phillippa Barnett,Teh Tarik,1.5,Friday,8
+651,3,Kaidan Melendez,Iced Latte,2.1,Monday,4
+652,7,Yaseen Thomas,Bulgogi Bento,15.7,Tuesday,1
+653,5,Phillippa Barnett,Vegetarian Wrap,8.5,Wednesday,12
+654,3,Kaidan Melendez,Orange Juice,3.6,Thursday,8
+655,9,Baxter Hanna,Teh Tarik,1.5,Thursday,9
+656,2,Mujtaba Beech,Vegetarian Wrap,8.5,Friday,3
+657,9,Baxter Hanna,Mee Goreng Mamak,6.5,Monday,12
+658,5,Phillippa Barnett,Premium Coffee,3.6,Thursday,3
+659,7,Yaseen Thomas,Teh Tarik,1.5,Tuesday,10
+660,8,Tevin Booker,Nasi Ayam,8.0,Wednesday,8
+661,2,Mujtaba Beech,Mee Goreng Mamak,6.5,Thursday,2
+662,4,Marie Guest,Mee Goreng Mamak,6.5,Thursday,11
+663,4,Marie Guest,Pasta Alfredo,11.2,Friday,6
+664,8,Tevin Booker,Nasi Ayam,8.0,Thursday,4
+665,5,Phillippa Barnett,Premium Coffee,3.6,Monday,6
+666,4,Marie Guest,Pasta Alfredo,11.2,Friday,11
+667,6,Ayla Blundell,Iced Latte,2.1,Friday,4
+668,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Friday,2
+669,9,Baxter Hanna,Teh Tarik,1.5,Thursday,2
+670,3,Kaidan Melendez,Teh Tarik,1.5,Thursday,3
+671,8,Tevin Booker,Bulgogi Bento,15.7,Thursday,8
+672,6,Ayla Blundell,Iced Latte,2.1,Wednesday,5
+673,9,Baxter Hanna,Iced Latte,2.1,Friday,6
+674,6,Ayla Blundell,Teriyaki Chicken Donburi,13.8,Thursday,7
+675,9,Baxter Hanna,Teriyaki Chicken Donburi,13.8,Tuesday,3
+676,7,Yaseen Thomas,Vegetarian Wrap,8.5,Thursday,4
+677,7,Yaseen Thomas,Pasta Alfredo,11.2,Thursday,12
+678,6,Ayla Blundell,Orange Juice,3.6,Friday,8
+679,1,Nishat Bowler,Teh Tarik,1.5,Friday,1
+680,6,Ayla Blundell,Teriyaki Chicken Donburi,13.8,Wednesday,3
+681,6,Ayla Blundell,Premium Coffee,3.6,Wednesday,8
+682,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Wednesday,6
+683,8,Tevin Booker,Iced Latte,2.1,Monday,9
+684,8,Tevin Booker,Orange Juice,3.6,Tuesday,12
+685,9,Baxter Hanna,Orange Juice,3.6,Monday,5
+686,7,Yaseen Thomas,Bulgogi Bento,15.7,Wednesday,8
+687,6,Ayla Blundell,Vegetarian Wrap,8.5,Tuesday,3
+688,4,Marie Guest,Teriyaki Chicken Donburi,13.8,Friday,10
+689,5,Phillippa Barnett,Orange Juice,3.6,Tuesday,11
+690,6,Ayla Blundell,Iced Latte,2.1,Thursday,2
+691,4,Marie Guest,Premium Coffee,3.6,Tuesday,8
+692,6,Ayla Blundell,Vegetarian Wrap,8.5,Monday,1
+693,3,Kaidan Melendez,Vegetarian Wrap,8.5,Tuesday,5
+694,8,Tevin Booker,Bulgogi Bento,15.7,Monday,8
+695,1,Nishat Bowler,Orange Juice,3.6,Monday,3
+696,8,Tevin Booker,Nasi Ayam,8.0,Monday,5
+697,7,Yaseen Thomas,Pasta Alfredo,11.2,Friday,7
+698,4,Marie Guest,Iced Latte,2.1,Thursday,10
+699,1,Nishat Bowler,Teriyaki Chicken Donburi,13.8,Monday,2
+700,1,Nishat Bowler,Bulgogi Bento,15.7,Friday,3
+701,5,Phillippa Barnett,Orange Juice,3.6,Thursday,4
+702,3,Kaidan Melendez,Orange Juice,3.6,Tuesday,12
+703,1,Nishat Bowler,Vegetarian Wrap,8.5,Friday,1
+704,9,Baxter Hanna,Bulgogi Bento,15.7,Wednesday,6
+705,5,Phillippa Barnett,Vegetarian Wrap,8.5,Monday,9
+706,8,Tevin Booker,Bulgogi Bento,15.7,Friday,12
+707,2,Mujtaba Beech,Premium Coffee,3.6,Friday,4
+708,9,Baxter Hanna,Teriyaki Chicken Donburi,13.8,Friday,1
+709,5,Phillippa Barnett,Bulgogi Bento,15.7,Wednesday,4
+710,9,Baxter Hanna,Bulgogi Bento,15.7,Friday,4
+711,8,Tevin Booker,Orange Juice,3.6,Friday,5
+712,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Thursday,10
+713,6,Ayla Blundell,Iced Latte,2.1,Friday,11
+714,9,Baxter Hanna,Teh Tarik,1.5,Monday,11
+715,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Tuesday,1
+716,7,Yaseen Thomas,Iced Latte,2.1,Monday,7
+717,2,Mujtaba Beech,Vegetarian Wrap,8.5,Wednesday,8
+718,7,Yaseen Thomas,Teh Tarik,1.5,Friday,7
+719,9,Baxter Hanna,Teh Tarik,1.5,Wednesday,7
+720,2,Mujtaba Beech,Orange Juice,3.6,Monday,11
+721,9,Baxter Hanna,Premium Coffee,3.6,Tuesday,3
+722,7,Yaseen Thomas,Nasi Ayam,8.0,Wednesday,5
+723,9,Baxter Hanna,Teh Tarik,1.5,Wednesday,6
+724,8,Tevin Booker,Nasi Ayam,8.0,Thursday,3
+725,2,Mujtaba Beech,Mee Goreng Mamak,6.5,Tuesday,6
+726,4,Marie Guest,Orange Juice,3.6,Wednesday,9
+727,4,Marie Guest,Bulgogi Bento,15.7,Thursday,12
+728,9,Baxter Hanna,Mee Goreng Mamak,6.5,Thursday,3
+729,3,Kaidan Melendez,Mee Goreng Mamak,6.5,Friday,9
+730,6,Ayla Blundell,Teriyaki Chicken Donburi,13.8,Thursday,9
+731,6,Ayla Blundell,Vegetarian Wrap,8.5,Wednesday,3
+732,9,Baxter Hanna,Premium Coffee,3.6,Tuesday,5
+733,7,Yaseen Thomas,Nasi Ayam,8.0,Wednesday,10
+734,9,Baxter Hanna,Iced Latte,2.1,Friday,5
+735,8,Tevin Booker,Pasta Alfredo,11.2,Monday,12
+736,9,Baxter Hanna,Pasta Alfredo,11.2,Tuesday,2
+737,3,Kaidan Melendez,Vegetarian Wrap,8.5,Wednesday,6
+738,7,Yaseen Thomas,Mee Goreng Mamak,6.5,Monday,2
+739,3,Kaidan Melendez,Teriyaki Chicken Donburi,13.8,Wednesday,7
+740,5,Phillippa Barnett,Nasi Ayam,8.0,Friday,6
+741,3,Kaidan Melendez,Nasi Ayam,8.0,Monday,10
+742,6,Ayla Blundell,Nasi Ayam,8.0,Monday,11
+743,3,Kaidan Melendez,Teh Tarik,1.5,Thursday,11
+744,4,Marie Guest,Premium Coffee,3.6,Wednesday,3
+745,6,Ayla Blundell,Premium Coffee,3.6,Tuesday,3
+746,9,Baxter Hanna,Nasi Ayam,8.0,Monday,11
+747,3,Kaidan Melendez,Vegetarian Wrap,8.5,Friday,7
+748,2,Mujtaba Beech,Iced Latte,2.1,Wednesday,8
+749,2,Mujtaba Beech,Nasi Ayam,8.0,Monday,2
+750,3,Kaidan Melendez,Teh Tarik,1.5,Friday,2
+751,2,Mujtaba Beech,Orange Juice,3.6,Thursday,4
+752,2,Mujtaba Beech,Iced Latte,2.1,Friday,10
+753,4,Marie Guest,Bulgogi Bento,15.7,Thursday,5
+754,9,Baxter Hanna,Premium Coffee,3.6,Thursday,11
+755,2,Mujtaba Beech,Pasta Alfredo,11.2,Friday,2
+756,1,Nishat Bowler,Premium Coffee,3.6,Tuesday,5
+757,4,Marie Guest,Teh Tarik,1.5,Tuesday,9
+758,5,Phillippa Barnett,Pasta Alfredo,11.2,Tuesday,5
+759,2,Mujtaba Beech,Iced Latte,2.1,Monday,7
+760,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Thursday,6
+761,3,Kaidan Melendez,Vegetarian Wrap,8.5,Thursday,2
+762,7,Yaseen Thomas,Vegetarian Wrap,8.5,Friday,9
+763,1,Nishat Bowler,Orange Juice,3.6,Thursday,5
+764,6,Ayla Blundell,Nasi Ayam,8.0,Tuesday,1
+765,5,Phillippa Barnett,Teh Tarik,1.5,Thursday,8
+766,4,Marie Guest,Teh Tarik,1.5,Thursday,2
+767,7,Yaseen Thomas,Nasi Ayam,8.0,Friday,8
+768,4,Marie Guest,Orange Juice,3.6,Monday,6
+769,8,Tevin Booker,Iced Latte,2.1,Monday,11
+770,6,Ayla Blundell,Iced Latte,2.1,Monday,5
+771,9,Baxter Hanna,Mee Goreng Mamak,6.5,Wednesday,6
+772,1,Nishat Bowler,Orange Juice,3.6,Wednesday,7
+773,4,Marie Guest,Teh Tarik,1.5,Monday,6
+774,5,Phillippa Barnett,Iced Latte,2.1,Thursday,8
+775,3,Kaidan Melendez,Orange Juice,3.6,Tuesday,3
+776,1,Nishat Bowler,Orange Juice,3.6,Tuesday,5
+777,3,Kaidan Melendez,Iced Latte,2.1,Tuesday,3
+778,1,Nishat Bowler,Orange Juice,3.6,Tuesday,12
+779,6,Ayla Blundell,Premium Coffee,3.6,Tuesday,8
+780,8,Tevin Booker,Iced Latte,2.1,Wednesday,2
+781,6,Ayla Blundell,Vegetarian Wrap,8.5,Wednesday,12
+782,3,Kaidan Melendez,Mee Goreng Mamak,6.5,Thursday,1
+783,8,Tevin Booker,Premium Coffee,3.6,Friday,10
+784,6,Ayla Blundell,Vegetarian Wrap,8.5,Wednesday,7
+785,7,Yaseen Thomas,Teriyaki Chicken Donburi,13.8,Friday,6
+786,2,Mujtaba Beech,Pasta Alfredo,11.2,Monday,1
+787,7,Yaseen Thomas,Vegetarian Wrap,8.5,Wednesday,3
+788,3,Kaidan Melendez,Premium Coffee,3.6,Monday,1
+789,4,Marie Guest,Bulgogi Bento,15.7,Monday,10
+790,8,Tevin Booker,Teh Tarik,1.5,Wednesday,1
+791,5,Phillippa Barnett,Nasi Ayam,8.0,Thursday,1
+792,9,Baxter Hanna,Bulgogi Bento,15.7,Thursday,5
+793,8,Tevin Booker,Teh Tarik,1.5,Friday,12
+794,4,Marie Guest,Pasta Alfredo,11.2,Tuesday,12
+795,3,Kaidan Melendez,Premium Coffee,3.6,Monday,9
+796,8,Tevin Booker,Iced Latte,2.1,Thursday,1
+797,4,Marie Guest,Teh Tarik,1.5,Friday,12
+798,6,Ayla Blundell,Bulgogi Bento,15.7,Monday,10
+799,7,Yaseen Thomas,Iced Latte,2.1,Wednesday,5
+800,9,Baxter Hanna,Orange Juice,3.6,Friday,4
+801,1,Nishat Bowler,Mee Goreng Mamak,6.5,Friday,9
+802,7,Yaseen Thomas,Orange Juice,3.6,Tuesday,3
+803,7,Yaseen Thomas,Pasta Alfredo,11.2,Monday,12
+804,2,Mujtaba Beech,Premium Coffee,3.6,Friday,3
+805,1,Nishat Bowler,Teriyaki Chicken Donburi,13.8,Thursday,3
+806,8,Tevin Booker,Orange Juice,3.6,Friday,7
+807,1,Nishat Bowler,Nasi Ayam,8.0,Tuesday,6
+808,8,Tevin Booker,Orange Juice,3.6,Friday,5
+809,8,Tevin Booker,Bulgogi Bento,15.7,Friday,8
+810,2,Mujtaba Beech,Premium Coffee,3.6,Friday,10
+811,3,Kaidan Melendez,Teriyaki Chicken Donburi,13.8,Thursday,3
+812,4,Marie Guest,Bulgogi Bento,15.7,Tuesday,12
+813,6,Ayla Blundell,Vegetarian Wrap,8.5,Monday,7
+814,5,Phillippa Barnett,Mee Goreng Mamak,6.5,Thursday,4
+815,4,Marie Guest,Premium Coffee,3.6,Wednesday,6
+816,3,Kaidan Melendez,Mee Goreng Mamak,6.5,Thursday,12
+817,8,Tevin Booker,Orange Juice,3.6,Wednesday,11
+818,9,Baxter Hanna,Vegetarian Wrap,8.5,Friday,10
+819,5,Phillippa Barnett,Premium Coffee,3.6,Wednesday,12
+820,8,Tevin Booker,Orange Juice,3.6,Monday,12
+821,3,Kaidan Melendez,Teh Tarik,1.5,Thursday,6
+822,2,Mujtaba Beech,Mee Goreng Mamak,6.5,Tuesday,9
+823,1,Nishat Bowler,Iced Latte,2.1,Monday,1
+824,3,Kaidan Melendez,Bulgogi Bento,15.7,Friday,8
+825,6,Ayla Blundell,Vegetarian Wrap,8.5,Wednesday,5
+826,6,Ayla Blundell,Teriyaki Chicken Donburi,13.8,Tuesday,1
+827,8,Tevin Booker,Vegetarian Wrap,8.5,Tuesday,2
+828,1,Nishat Bowler,Bulgogi Bento,15.7,Tuesday,7
+829,2,Mujtaba Beech,Mee Goreng Mamak,6.5,Thursday,6
+830,3,Kaidan Melendez,Iced Latte,2.1,Wednesday,2
+831,3,Kaidan Melendez,Teh Tarik,1.5,Thursday,4
+832,7,Yaseen Thomas,Orange Juice,3.6,Thursday,3
+833,5,Phillippa Barnett,Nasi Ayam,8.0,Thursday,7
+834,3,Kaidan Melendez,Iced Latte,2.1,Friday,6
+835,1,Nishat Bowler,Teh Tarik,1.5,Thursday,8
+836,4,Marie Guest,Nasi Ayam,8.0,Monday,5
+837,2,Mujtaba Beech,Orange Juice,3.6,Thursday,10
+838,5,Phillippa Barnett,Mee Goreng Mamak,6.5,Monday,9
+839,5,Phillippa Barnett,Nasi Ayam,8.0,Friday,12
+840,7,Yaseen Thomas,Teh Tarik,1.5,Thursday,8
+841,1,Nishat Bowler,Premium Coffee,3.6,Tuesday,12
+842,8,Tevin Booker,Pasta Alfredo,11.2,Tuesday,1
+843,6,Ayla Blundell,Teriyaki Chicken Donburi,13.8,Tuesday,8
+844,4,Marie Guest,Nasi Ayam,8.0,Wednesday,12
+845,9,Baxter Hanna,Premium Coffee,3.6,Friday,5
+846,4,Marie Guest,Mee Goreng Mamak,6.5,Monday,7
+847,6,Ayla Blundell,Iced Latte,2.1,Monday,5
+848,7,Yaseen Thomas,Nasi Ayam,8.0,Monday,10
+849,1,Nishat Bowler,Pasta Alfredo,11.2,Wednesday,5
+850,7,Yaseen Thomas,Premium Coffee,3.6,Tuesday,5
+851,1,Nishat Bowler,Mee Goreng Mamak,6.5,Monday,7
+852,8,Tevin Booker,Bulgogi Bento,15.7,Friday,3
+853,6,Ayla Blundell,Nasi Ayam,8.0,Monday,9
+854,7,Yaseen Thomas,Nasi Ayam,8.0,Friday,1
+855,9,Baxter Hanna,Teriyaki Chicken Donburi,13.8,Thursday,8
+856,1,Nishat Bowler,Vegetarian Wrap,8.5,Monday,2
+857,2,Mujtaba Beech,Vegetarian Wrap,8.5,Wednesday,4
+858,1,Nishat Bowler,Mee Goreng Mamak,6.5,Friday,11
+859,6,Ayla Blundell,Premium Coffee,3.6,Tuesday,10
+860,2,Mujtaba Beech,Bulgogi Bento,15.7,Tuesday,3
+861,2,Mujtaba Beech,Orange Juice,3.6,Wednesday,10
+862,7,Yaseen Thomas,Nasi Ayam,8.0,Thursday,6
+863,4,Marie Guest,Teriyaki Chicken Donburi,13.8,Tuesday,8
+864,2,Mujtaba Beech,Bulgogi Bento,15.7,Wednesday,3
+865,2,Mujtaba Beech,Nasi Ayam,8.0,Tuesday,2
+866,7,Yaseen Thomas,Orange Juice,3.6,Thursday,10
+867,5,Phillippa Barnett,Iced Latte,2.1,Monday,4
+868,2,Mujtaba Beech,Nasi Ayam,8.0,Friday,11
+869,5,Phillippa Barnett,Nasi Ayam,8.0,Monday,7
+870,5,Phillippa Barnett,Nasi Ayam,8.0,Friday,3
+871,3,Kaidan Melendez,Orange Juice,3.6,Monday,7
+872,6,Ayla Blundell,Orange Juice,3.6,Thursday,12
+873,9,Baxter Hanna,Iced Latte,2.1,Thursday,12
+874,8,Tevin Booker,Premium Coffee,3.6,Wednesday,5
+875,8,Tevin Booker,Orange Juice,3.6,Monday,7
+876,6,Ayla Blundell,Pasta Alfredo,11.2,Tuesday,5
+877,3,Kaidan Melendez,Teriyaki Chicken Donburi,13.8,Monday,5
+878,3,Kaidan Melendez,Pasta Alfredo,11.2,Wednesday,2
+879,4,Marie Guest,Iced Latte,2.1,Monday,12
+880,4,Marie Guest,Pasta Alfredo,11.2,Thursday,2
+881,7,Yaseen Thomas,Teriyaki Chicken Donburi,13.8,Monday,2
+882,2,Mujtaba Beech,Vegetarian Wrap,8.5,Wednesday,2
+883,1,Nishat Bowler,Teriyaki Chicken Donburi,13.8,Tuesday,3
+884,4,Marie Guest,Teh Tarik,1.5,Thursday,7
+885,5,Phillippa Barnett,Premium Coffee,3.6,Wednesday,4
+886,7,Yaseen Thomas,Bulgogi Bento,15.7,Wednesday,7
+887,5,Phillippa Barnett,Iced Latte,2.1,Friday,9
+888,1,Nishat Bowler,Pasta Alfredo,11.2,Friday,12
+889,6,Ayla Blundell,Nasi Ayam,8.0,Monday,4
+890,2,Mujtaba Beech,Teh Tarik,1.5,Monday,3
+891,5,Phillippa Barnett,Orange Juice,3.6,Monday,6
+892,1,Nishat Bowler,Teh Tarik,1.5,Thursday,9
+893,4,Marie Guest,Iced Latte,2.1,Tuesday,2
+894,2,Mujtaba Beech,Bulgogi Bento,15.7,Thursday,8
+895,6,Ayla Blundell,Orange Juice,3.6,Thursday,9
+896,3,Kaidan Melendez,Pasta Alfredo,11.2,Monday,5
+897,3,Kaidan Melendez,Teriyaki Chicken Donburi,13.8,Wednesday,1
+898,5,Phillippa Barnett,Teh Tarik,1.5,Wednesday,6
+899,8,Tevin Booker,Vegetarian Wrap,8.5,Monday,10
+900,1,Nishat Bowler,Bulgogi Bento,15.7,Monday,6
+901,9,Baxter Hanna,Orange Juice,3.6,Friday,11
+902,1,Nishat Bowler,Iced Latte,2.1,Monday,1
+903,3,Kaidan Melendez,Nasi Ayam,8.0,Wednesday,1
+904,1,Nishat Bowler,Orange Juice,3.6,Friday,12
+905,6,Ayla Blundell,Bulgogi Bento,15.7,Monday,7
+906,5,Phillippa Barnett,Nasi Ayam,8.0,Tuesday,2
+907,4,Marie Guest,Teh Tarik,1.5,Thursday,4
+908,1,Nishat Bowler,Pasta Alfredo,11.2,Monday,2
+909,3,Kaidan Melendez,Orange Juice,3.6,Wednesday,8
+910,6,Ayla Blundell,Teriyaki Chicken Donburi,13.8,Tuesday,1
+911,2,Mujtaba Beech,Mee Goreng Mamak,6.5,Wednesday,1
+912,6,Ayla Blundell,Teh Tarik,1.5,Tuesday,2
+913,8,Tevin Booker,Orange Juice,3.6,Tuesday,1
+914,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Tuesday,11
+915,2,Mujtaba Beech,Nasi Ayam,8.0,Monday,11
+916,6,Ayla Blundell,Iced Latte,2.1,Friday,7
+917,2,Mujtaba Beech,Iced Latte,2.1,Tuesday,11
+918,5,Phillippa Barnett,Pasta Alfredo,11.2,Tuesday,11
+919,9,Baxter Hanna,Premium Coffee,3.6,Monday,3
+920,1,Nishat Bowler,Vegetarian Wrap,8.5,Wednesday,6
+921,6,Ayla Blundell,Premium Coffee,3.6,Thursday,10
+922,4,Marie Guest,Teh Tarik,1.5,Friday,12
+923,3,Kaidan Melendez,Premium Coffee,3.6,Friday,5
+924,8,Tevin Booker,Vegetarian Wrap,8.5,Friday,10
+925,1,Nishat Bowler,Orange Juice,3.6,Wednesday,4
+926,4,Marie Guest,Mee Goreng Mamak,6.5,Wednesday,11
+927,1,Nishat Bowler,Premium Coffee,3.6,Wednesday,11
+928,9,Baxter Hanna,Pasta Alfredo,11.2,Thursday,3
+929,9,Baxter Hanna,Nasi Ayam,8.0,Tuesday,4
+930,4,Marie Guest,Teh Tarik,1.5,Thursday,5
+931,7,Yaseen Thomas,Premium Coffee,3.6,Wednesday,2
+932,1,Nishat Bowler,Bulgogi Bento,15.7,Thursday,1
+933,7,Yaseen Thomas,Teh Tarik,1.5,Friday,11
+934,2,Mujtaba Beech,Teh Tarik,1.5,Tuesday,4
+935,2,Mujtaba Beech,Nasi Ayam,8.0,Wednesday,10
+936,6,Ayla Blundell,Mee Goreng Mamak,6.5,Monday,10
+937,9,Baxter Hanna,Pasta Alfredo,11.2,Wednesday,7
+938,2,Mujtaba Beech,Teh Tarik,1.5,Friday,3
+939,9,Baxter Hanna,Teriyaki Chicken Donburi,13.8,Wednesday,10
+940,4,Marie Guest,Teh Tarik,1.5,Tuesday,5
+941,4,Marie Guest,Orange Juice,3.6,Wednesday,7
+942,2,Mujtaba Beech,Vegetarian Wrap,8.5,Friday,4
+943,8,Tevin Booker,Nasi Ayam,8.0,Thursday,7
+944,9,Baxter Hanna,Vegetarian Wrap,8.5,Monday,5
+945,1,Nishat Bowler,Bulgogi Bento,15.7,Friday,11
+946,5,Phillippa Barnett,Pasta Alfredo,11.2,Thursday,11
+947,3,Kaidan Melendez,Teriyaki Chicken Donburi,13.8,Wednesday,6
+948,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Wednesday,12
+949,7,Yaseen Thomas,Mee Goreng Mamak,6.5,Tuesday,9
+950,9,Baxter Hanna,Premium Coffee,3.6,Thursday,2
+951,9,Baxter Hanna,Pasta Alfredo,11.2,Monday,10
+952,6,Ayla Blundell,Mee Goreng Mamak,6.5,Friday,11
+953,7,Yaseen Thomas,Orange Juice,3.6,Monday,10
+954,5,Phillippa Barnett,Nasi Ayam,8.0,Tuesday,11
+955,5,Phillippa Barnett,Iced Latte,2.1,Wednesday,1
+956,5,Phillippa Barnett,Teriyaki Chicken Donburi,13.8,Monday,5
+957,8,Tevin Booker,Bulgogi Bento,15.7,Tuesday,6
+958,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Wednesday,5
+959,9,Baxter Hanna,Premium Coffee,3.6,Thursday,11
+960,3,Kaidan Melendez,Vegetarian Wrap,8.5,Wednesday,7
+961,8,Tevin Booker,Teriyaki Chicken Donburi,13.8,Thursday,1
+962,2,Mujtaba Beech,Teh Tarik,1.5,Tuesday,6
+963,6,Ayla Blundell,Iced Latte,2.1,Wednesday,10
+964,1,Nishat Bowler,Pasta Alfredo,11.2,Friday,3
+965,7,Yaseen Thomas,Pasta Alfredo,11.2,Friday,8
+966,9,Baxter Hanna,Iced Latte,2.1,Monday,7
+967,2,Mujtaba Beech,Vegetarian Wrap,8.5,Monday,1
+968,4,Marie Guest,Mee Goreng Mamak,6.5,Friday,6
+969,7,Yaseen Thomas,Vegetarian Wrap,8.5,Monday,10
+970,7,Yaseen Thomas,Premium Coffee,3.6,Monday,10
+971,9,Baxter Hanna,Bulgogi Bento,15.7,Wednesday,2
+972,3,Kaidan Melendez,Bulgogi Bento,15.7,Tuesday,5
+973,5,Phillippa Barnett,Orange Juice,3.6,Monday,1
+974,4,Marie Guest,Mee Goreng Mamak,6.5,Wednesday,11
+975,4,Marie Guest,Vegetarian Wrap,8.5,Thursday,4
+976,9,Baxter Hanna,Iced Latte,2.1,Friday,12
+977,3,Kaidan Melendez,Premium Coffee,3.6,Thursday,2
+978,8,Tevin Booker,Pasta Alfredo,11.2,Monday,2
+979,9,Baxter Hanna,Nasi Ayam,8.0,Friday,2
+980,8,Tevin Booker,Premium Coffee,3.6,Friday,2
+981,8,Tevin Booker,Teh Tarik,1.5,Thursday,6
+982,7,Yaseen Thomas,Vegetarian Wrap,8.5,Wednesday,5
+983,6,Ayla Blundell,Pasta Alfredo,11.2,Friday,8
+984,9,Baxter Hanna,Premium Coffee,3.6,Tuesday,10
+985,8,Tevin Booker,Nasi Ayam,8.0,Monday,2
+986,7,Yaseen Thomas,Pasta Alfredo,11.2,Tuesday,5
+987,9,Baxter Hanna,Nasi Ayam,8.0,Tuesday,6
+988,5,Phillippa Barnett,Orange Juice,3.6,Friday,12
+989,9,Baxter Hanna,Teh Tarik,1.5,Monday,3
+990,9,Baxter Hanna,Mee Goreng Mamak,6.5,Thursday,1
+991,8,Tevin Booker,Bulgogi Bento,15.7,Friday,7
+992,3,Kaidan Melendez,Bulgogi Bento,15.7,Friday,1
+993,2,Mujtaba Beech,Bulgogi Bento,15.7,Thursday,1
+994,6,Ayla Blundell,Teh Tarik,1.5,Thursday,2
+995,4,Marie Guest,Vegetarian Wrap,8.5,Friday,11
+996,3,Kaidan Melendez,Teh Tarik,1.5,Tuesday,5
+997,4,Marie Guest,Orange Juice,3.6,Thursday,7
+998,6,Ayla Blundell,Teh Tarik,1.5,Tuesday,4
+999,4,Marie Guest,Orange Juice,3.6,Tuesday,3
